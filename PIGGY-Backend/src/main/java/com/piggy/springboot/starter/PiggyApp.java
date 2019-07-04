@@ -1,7 +1,7 @@
 /**
  * 
  */
-package piggy.springbootstarter;
+package com.piggy.springboot.starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
